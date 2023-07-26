@@ -1,9 +1,9 @@
 variable "access_key" {
-    default = "AKIAXCTD4COIUNVRSBV6"
+    default = ""
 }
 
 variable "secret_key" {
-    default = "kUBXBehb3UNzvoNfGMjc76GmE66XQT6nGPBjYLwn"
+    default = ""
   
 }
 

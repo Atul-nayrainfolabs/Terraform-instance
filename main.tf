@@ -6,7 +6,7 @@ resource "aws_instance" "nano" {
     key_name = var.key_name
 
     tags = {
-      Name = "Nano-Machine"
+      Name = "Nano-Machine-instance"
     }
 
 }
